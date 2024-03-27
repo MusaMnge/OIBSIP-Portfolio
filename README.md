@@ -10,7 +10,7 @@
 
 ---
 
-### : About File :
+### About File :
 
 I am a Web Developer from South Africa. 
 This is the code i used to create my Portfolio for the oasis infobyte internship.
