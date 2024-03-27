@@ -13,7 +13,7 @@
 ### About File :
 
 I am a Web Developer from South Africa. 
-This is the code i used to create my Portfolio for the oasis infobyte internship.
+This is the code i used to create my Portfolio project tasked for the oasis infobyte internship.
 
 :wave: I am excited to connect with other developers! Reach out to me on my LinkedIn.
 
